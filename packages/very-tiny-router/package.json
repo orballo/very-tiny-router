@@ -1,14 +1,14 @@
 {
   "name": "@orballo/very-tiny-router",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "A very tiny router (source agnostic) for Frontity",
+  "homepage": "https://github.com/orballo/very-tiny-router",
+  "license": "Apache-2.0",
   "keywords": [
     "frontity",
     "frontity-package",
     "frontity-router"
   ],
-  "homepage": "https://frontity.org",
-  "license": "Apache-2.0",
   "repository": {
     "type": "git",
     "url": "https://github.com/orballo/very-tiny-router.git"
@@ -21,6 +21,7 @@
     "frontity": "^1.14.0"
   },
   "devDependencies": {
+    "@frontity/error": "^0.1.3",
     "@types/react": "^16.8.24"
   }
 }
