@@ -1,6 +1,6 @@
 {
   "name": "@orballo/very-tiny-router",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "A very tiny router (source agnostic) for Frontity",
   "homepage": "https://github.com/orballo/very-tiny-router",
   "license": "Apache-2.0",
